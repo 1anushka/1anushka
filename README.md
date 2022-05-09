@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning IT 
 - 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me anushka.kapri@kisio.com
+- 🎓  I'm in first year 
 
 <!---
 1anushka/1anushka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
